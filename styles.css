@@ -78,17 +78,6 @@ section#contact {
     background-color: #DAE9FF;
 }
 
-section#feat {
-    background-color: #efefef;
-    border-top: 2px dotted #555;
-    border-bottom: 2px dotted #555;  
-    text-align: center;
-    padding: 4em 0;
-}
-section#feat h3 {
-    margin: 0
-}
-
 footer {
     text-align: center;
     padding: 1em 0;
@@ -99,14 +88,5 @@ footer {
     h1 {
         font-size: 200%;
         display: inline-block;
-    }
-    .nav > li {
-       float: none;
-       display: inline-block; 
-       margin-top: 0.5em;
-    }        
-    .nav-pills {
-        display: inline-block;
-        width: 100%;
-    }        
+    }       
 }
