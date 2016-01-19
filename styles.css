@@ -28,7 +28,7 @@ h1 {
 h2 {
     text-align: center;
     line-height: 170%;
-    margin-bottom: 2em;
+    margin: 2em 0;
 }
 header {
     padding: 6em 0;
@@ -65,7 +65,7 @@ section p, label, ul {
 }
 
 section {
-    padding: 4em 0;
+    padding: 2em 0;
 }
 
 section#for {
@@ -73,9 +73,6 @@ section#for {
 }
 section#signup {
     background-color: #D1FFCE;
-}
-section#contact {
-    background-color: #DAE9FF;
 }
 
 footer {
